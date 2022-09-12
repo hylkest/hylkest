@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hylke</h1>
-<h3 align="center">Software Developer Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hylkest&label=Profile%20views&color=0e75b6&style=flat" alt="hylkest" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hylkest" alt="hylkest" /></a> </p>
 
-- 🔭 I’m currently learning **PHP, SCSS, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
